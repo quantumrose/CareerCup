@@ -1,4 +1,4 @@
-// Cracking the Coding Interview 2.3
+// Cracking the Coding Interview 2.4
 // Write code to partition a linked list around a value x, such that all nodes less than x come before all nodes greater than of equal to x.
 
 public class Partition {
